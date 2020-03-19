@@ -20,7 +20,7 @@ No desenvolvimento do teste foram utilizadas as seguintes tecnologias:
 
 **Antes de seguir os passos para executar o projeto é necessário ter instalados em sua máquina:**
 
-* nodejs e npm <https://nodejs.org/en/>
+* nodejs <https://nodejs.org/en/>
 * SASS <https://sass-lang.com/install>
 * JsonServer <https://www.npmjs.com/package/json-server>
 
