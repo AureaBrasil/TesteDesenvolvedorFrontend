@@ -2,7 +2,7 @@
 
 ### Este é um projeto que utiliza as tecnologias React, JavaScript e Redux para consumo de uma API REST local
 
-Obs: Este foi meu primeiro projeto utilizando a tecnologia React e Redux !!! Foi desenvolvido para realização de um teste de Desenvolverdor Web para a ** GS Ciência do Consumo **, 
+Obs: Este foi meu primeiro projeto utilizando a tecnologia React e Redux !!! Foi desenvolvido para realização de um teste de Desenvolverdor Web para a **GS Ciência do Consumo**, 
 o tema do projeto trata-se de um site de roupas femininas, onde é possível escolher alguns modelos de roupas, adiciona-las ao carrinho e vizualizar o preço total e quantidade.
 
 No desenvolvimento do teste foram utilizadas as seguintes tecnologias: 
@@ -18,7 +18,7 @@ No desenvolvimento do teste foram utilizadas as seguintes tecnologias:
 
 ### Nota
 
-** Antes de seguir os passos para executar o projeto é necessário ter instalados em sua máquina: 
+**Antes de seguir os passos para executar o projeto é necessário ter instalados em sua máquina:**
 
 * nodejs e npm <https://nodejs.org/en/>
 * SASS <https://sass-lang.com/install>
@@ -26,7 +26,7 @@ No desenvolvimento do teste foram utilizadas as seguintes tecnologias:
 
 ## Executando o Projeto
 
-#### Se for a primera vez utilizando o projeto use npm install para instalar todas as dependências necessárias
+#### Se for a primera vez utilizando o projeto use __npm install__ para instalar todas as dependências necessárias
 
 > npm install
 
@@ -39,7 +39,7 @@ No desenvolvimento do teste foram utilizadas as seguintes tecnologias:
 
 > npm start
  
-Obs.: O comando *** start *** no npm em package.json pode sofrer alterções dependendo do seu sistema operacional 
+Obs.: O comando **start** no npm em package.json pode sofrer alterções dependendo do seu sistema operacional 
 
 ```npm
 "scripts": {
