@@ -39,7 +39,7 @@ No desenvolvimento do teste foram utilizadas as seguintes tecnologias:
 
 > npm start
  
-Obs.: O comando **start** no npm em package.json pode sofrer alterções dependendo do seu sistema operacional 
+Obs.: O comando **start** no npm em package.json pode sofrer alterações dependendo do seu sistema operacional 
 
 ```npm
 "scripts": {
