@@ -1,0 +1,76 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "category": "Roupas",
+            "title": "Vestido Primavera",
+            "availableQuantity": 10,
+            "price": 59.90,
+            "image": "produto-1.jpg"
+        },
+        {
+            "id": 2,
+            "category": "Roupas",
+            "title": "Jaqueta Básica Feminina",
+            "availableQuantity": 8,
+            "price": 119.19,
+            "image": "produto-2.jpg"
+        },
+        {
+            "id": 3,
+            "category": "Roupas",
+            "title": "Vestido Florido Rosa",
+            "availableQuantity": 10,
+            "price": 78.45,
+            "image": "produto-3.jpg"
+        },
+        {
+            "id": 4,
+            "category": "Roupas",
+            "title": "Regata Lily Fashion Evasê Floral",
+            "availableQuantity": 10,
+            "price": 49.90,
+            "image": "produto-4.jpg"
+        },
+        {
+            "id": 5,
+            "category": "Roupas",
+            "title": "Vestido Lily Fashion Estampado",
+            "availableQuantity": 10,
+            "price": 74.20,
+            "image": "produto-5.jpg"
+        },
+        {
+            "id": 6,
+            "category": "Roupas",
+            "title": "Blusa Facinelli Feminina",
+            "availableQuantity": 10,
+            "price": 52.20,
+            "image": "produto-6.jpg"
+        },
+        {
+            "id": 7,
+            "category": "Roupas",
+            "title": "Vestido Lez a Lez  Estampado ",
+            "availableQuantity": 10,
+            "price": 44.20,
+            "image": "produto-7.jpg"
+        },
+        {
+            "id": 8,
+            "category": "Roupas",
+            "title": "Vestido Florido",
+            "availableQuantity": 10,
+            "price": 29.90,
+            "image": "produto-8.jpg"
+        },
+        {
+            "id": 9,
+            "category": "Roupas",
+            "title": "Blusa Favorita's Manga Guipir Feminina - Preto",
+            "availableQuantity": 10,
+            "price": 39.20,
+            "image": "produto-9.jpg"
+        }
+    ]
+}

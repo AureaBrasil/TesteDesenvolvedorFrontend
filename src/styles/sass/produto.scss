@@ -1,0 +1,113 @@
+.lista-produtos {
+    margin: 0 auto;
+    max-width: 1000px;
+    .titulo-lista-produtos {
+        text-align: center;
+        font-weight: 100;
+        margin-bottom: 30px;
+        margin-top: 30px;
+    }
+}
+.product {
+    box-shadow: 1px 5px 8px 3px #80808026;
+    border-radius: 6px;
+    border: 1px solid #e0e0e0;
+    text-decoration: none;
+    a {
+        text-decoration: none !important;
+    }
+    &__name {
+        font-weight: 600;
+        font-weight: 600;
+        text-decoration: none;
+        color: #2d2d2d;
+        padding: 10px;
+        font-size: 1.1rem;
+        text-transform: uppercase;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        overflow: hidden;
+        width: 100%;
+        padding-left: 15px;
+    }
+
+    &__image {
+        background-size: cover;
+        background-position: top;
+        height: 280px;
+    }
+
+    &__price {
+        margin-left: 20px;
+        display: inline-block;
+        width: 100%;
+        font-size: 1.2rem;
+        font-weight: 900;
+        color: #444444;
+    }
+    &__rating {
+        padding-left: 10px;
+        color: #ffa501;
+        line-height: 10px;
+        margin-top: -10px;
+    }
+
+    &__available {
+        font-size: 11px;
+        margin-left: 15px;
+        margin-bottom: 5px;
+    }
+
+    button {
+        margin: 0 auto;
+        display: block;
+        margin-bottom: 20px;
+        margin-top: 20px;
+    }
+}
+
+.product-details {
+    margin: 0 auto !important;
+    max-width: 1000px;
+    margin-top: 100px;
+    box-shadow: 1px 5px 8px 3px #80808026;
+    border-radius: 6px;
+    border: 1px solid #e0e0e0;
+    &__picture {
+        width: 100%;
+        min-height: 400px;
+        background-size: cover;
+        background-position: center;
+    }
+    &__title {
+        font-size: 2rem;
+        font-weight: 100;
+        display: inline-block;
+        width: 100%;
+        margin-top: 0px;
+        margin-bottom: 40px;
+    }
+
+    &__details {
+        font-size: 1.1rem;
+        display: inline-block;
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    &__price {
+        display: inline-block;
+        width: 100%;
+        font-weight: 600;
+        font-size: 2rem;
+        margin-bottom: 30px;
+    }
+    &__rating {
+        margin-top: -5px;
+        display: inline-block;
+        color: orange;
+        margin-left: -5px;
+    }
+    .col-info {
+        min-height: 400px;
+    }
+}

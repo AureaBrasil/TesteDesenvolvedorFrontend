@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,700&display=swap');
+@import 'header.scss';
+@import 'produto.scss';
+@import 'cart.scss';
+
+// compando para compilar o sass, é necessario navegar para a pasta
+// sass --watch app.scss:../css/app.css
+
+*{ 
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+html,
+body{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}   
+ 
+.content-body{
+    margin-top: 100px;
+}
+
+footer{
+    display: inline-block;
+    width: 100%;
+    margin-top: 4rem;
+    text-align: center;
+    padding: 3rem 0;
+    background: #293580;
+    color: #fff;
+}

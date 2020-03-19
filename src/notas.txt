@@ -1,0 +1,2 @@
+-- Para rodar a API Rest local do JSON de Produtos
+json-server --watch rest-api/products.json
